@@ -5,10 +5,10 @@ import style from "./Header.module.css";
 const HeaderSocials = () => {
   return (
     <div className={style.header_socials}>
-      <a href="https://linkedin.com/in/josemellar" target={"_blank"}>
+      <a href="https://linkedin.com/in/josemellar" target={"blank"}>
         <BsLinkedin />
       </a>
-      <a href="https://github.com/jmella22" target={"_blank"}>
+      <a href="https://github.com/jmella22" target={"blank"}>
         <BsGithub />
       </a>
     </div>

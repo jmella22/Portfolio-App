@@ -1,6 +1,7 @@
 /*==================== HEADER ====================*/
 
 header {
+  min-height: 880px;
   height: 100vh;
   padding-top: 7rem;
   overflow: hidden;
